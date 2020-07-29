@@ -2,7 +2,7 @@
 <h2 align='center'> Umang Singh </h2>
 
 
-<br><img align="left" src="https://abithomasfreelance.files.wordpress.com/2015/02/untitled-5.gif"><br><br>
+<br><img align="left" src="https://abithomasfreelance.files.wordpress.com/2015/02/untitled-5.gif" width="400"><br><br>
 
 <p align ="left">
 <samp>
@@ -35,7 +35,7 @@ ofcourse i prefer linux over Windows and it's been 3 years that i am running Arc
 
 </p>
 <br>
-![](https://github-readme-stats.vercel.app/api?username=InsideU&show_icons=true)
+![test](https://github-readme-stats.vercel.app/api?username=InsideU&show_icons=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=InsideU.InsideU)
 
