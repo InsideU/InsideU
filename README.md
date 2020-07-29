@@ -14,8 +14,6 @@ ofcourse i prefer linux over Windows and it's been 3 years that i am running Arc
 </p>
 <br> <br>
 
+<img src ="https://media1.giphy.com/avatars/aarati/s8nTMnUntQOD.gif">
 
-
-<img align ='center' src= "https://media1.giphy.com/avatars/aarati/s8nTMnUntQOD.gif" width="400 >
-                                                                                            
 
