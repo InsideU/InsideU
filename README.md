@@ -12,7 +12,7 @@ ofcourse i prefer linux over Windows and it's been 3 years that i am running Arc
  <br><br>
 </samp>
 </p>
-<br> <br>
+<br> 
 
 <h3 align='center'> Find me on Internet 🌎 </h3>
 <p align="center">
