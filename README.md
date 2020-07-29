@@ -3,7 +3,7 @@
  </h2>
 
 
-<br><img align="center" src="https://abithomasfreelance.files.wordpress.com/2015/02/untitled-5.gif"  ><br><br>
+<br><img align="center" src="https://abithomasfreelance.files.wordpress.com/2015/02/untitled-5.gif" width="900" ><br><br>
 <br>
 <p align ="center">
 <samp>
