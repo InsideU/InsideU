@@ -14,7 +14,7 @@ ofcourse i prefer linux over Windows and it's been 3 years that i am running Arc
 </p>
 <br> <br>
 
-<p align ="center">
+
 <h3  align='center'>Find me around the web 🌎 </h3>
 <img align ='center' src= "https://media1.giphy.com/avatars/aarati/s8nTMnUntQOD.gif" width="400 >
                                                                                             
@@ -23,5 +23,5 @@ ofcourse i prefer linux over Windows and it's been 3 years that i am running Arc
   <a href="mailto:umang20singh@gmail.com?subject=Olá%20Umang"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/ssingh_umang"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.reddit.com/user/tikSNa"><img src="https://img.shields.io/badge/reddit-%230077B5.svg?&style=for-the-badge&logo=reddit&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+
 <hr>
