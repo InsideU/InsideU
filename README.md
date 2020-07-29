@@ -16,7 +16,7 @@ ofcourse i prefer linux over Windows and it's been 3 years that i am running Arc
 
 <h3 align='center'> Find me on Internet 🌎 </h3>
 <p align="center">
-<img src ="https://static.ezgif.com/images/bg-white.gif" >
+<img src ="https://static.ezgif.com/images/bg-white.gif" ><br>
 <a href="https://medium.com/@umang20singh"><img src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/umang-singh-40309b147/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp
 <a href="mailto:umang20singh.com?subject=Olá%20Umang"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
