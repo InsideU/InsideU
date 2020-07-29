@@ -6,7 +6,10 @@
 
 <p align ="left">
 <samp>
-I am a software Engineer who is passionate about working on open-source projects, creating technology to elevate people, and building community. I love to work parallelly on multiple project and i am still on the hiest<i> ( A Tecnological hiest )</i> <br><br>
+I am a software Engineer who is passionate about working on open-source projects, creating technology to elevate people, and building community. I love to work parallelly on multiple project and i am still on the hiest<i> ( A Tecnological hiest )</i>
+A am so into linux and it's been 3 years that i am running Arch on my system . I love to contribute to the linux comunity . 
+ And most importantly i prefer tabs over spaces and vim over emacs.(I am very partial when it comes to this matter)
+ <br><br>
 </samp>
 </p>
 <br> <br><br><br> <br> <br>
