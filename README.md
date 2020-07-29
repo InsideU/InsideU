@@ -2,7 +2,7 @@
 <h2 align='center'> Umang Singh </h2>
 
 
-<br><img align="left" src="https://abithomasfreelance.files.wordpress.com/2015/02/untitled-5.gif" width="650"><br><br>
+<br><img align="left" src="https://abithomasfreelance.files.wordpress.com/2015/02/untitled-5.gif" width="500"><br><br>
 
 <p align ="left">
 <samp>
