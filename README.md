@@ -1,10 +1,11 @@
 
-<h2 align='center'> Umang Singh </h2>
+<h2 align='center'> <h2 align='center'> Hi there, I'm Umang  👋 🧑🏻‍💻 </h2>
+ </h2>
 
 
-<br><img align="left" src="https://abithomasfreelance.files.wordpress.com/2015/02/untitled-5.gif" width="900"><br><br>
+<br><img src="https://abithomasfreelance.files.wordpress.com/2015/02/untitled-5.gif" ><br><br>
 <br>
-<p align ="left">
+<p align ="center">
 <samp>
 I am a software Engineer who is passionate about working on open-source projects, creating technology to elevate people, and building community. I love to work parallelly on multiple project and i am still on the hiest<i> ( A Tecnological hiest )</i>
 ofcourse i prefer linux over Windows and it's been 3 years that i am running Arch on my system . I love to contribute to the linux comunity . 
