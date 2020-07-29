@@ -22,4 +22,15 @@ ofcourse i prefer linux over Windows and it's been 3 years that i am running Arc
 <a href="mailto:umang20singh.com?subject=Olá%20Umang"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/ssingh_umang"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+<hr>
+<h4 align='center'> 🔭   I’m currently working with ...</h4>
+<p align='center'>
+  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/python3%20-%23e34f26.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/figma%20-%231572B6.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
+   <img  src="https://img.shields.io/badge/mongoDB%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=green" /> &nbsp;&nbsp;
+ 
+</p>
 
