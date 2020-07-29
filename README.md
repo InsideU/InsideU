@@ -9,6 +9,7 @@
 I am a software Engineer who is passionate about working on open-source projects, creating technology to elevate people, and building community. I love to work parallelly on multiple project and i am still on the hiest<i> ( A Tecnological hiest )</i> <br><br>
 </samp>
 </p>
+<br> <br><br>
 
 <h3  align='center'>Find me around the web 🌎 </h3>
 <p align='center'>
