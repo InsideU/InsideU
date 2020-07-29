@@ -15,6 +15,6 @@ ofcourse i prefer linux over Windows and it's been 3 years that i am running Arc
 <br> <br>
 
 <h3 align='center'> Find me on Internet </h3>
-<img align='center' src ="https://giphy.com/gifs/estranho-porto-editora-estranhao-1AhQBdJv2q7vMwlcdR" >
+<img align='center' src ="https://static.ezgif.com/images/bg-white.gif" >
 
 
