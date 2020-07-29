@@ -36,7 +36,10 @@ ofcourse i prefer linux over Windows and it's been 3 years that i am running Arc
 </p>
 <br>
 
-<p align="center">
-
 ![](https://github-readme-stats.vercel.app/api?username=InsideU&show_icons=true)
-</p>
+
+<hr>
+<br>
+<p align="center">
+ <img src = "https://i.pinimg.com/originals/c1/91/9b/c1919b49dd6f835cf4638cebeca3ff07.gif" >
+ </p>
