@@ -4,7 +4,7 @@
 
 <br><img align="left" src="https://abithomasfreelance.files.wordpress.com/2015/02/untitled-5.gif"><br><br>
 
-<p align ="left">
+<p align ="right">
 <samp>
 I am a software Engineer who is passionate about working on open-source projects, creating technology to elevate people, and building community. I love to work parallelly on multiple project and i am still on the hiest<i> ( A Tecnological hiest )</i>
 ofcourse i prefer linux over Windows and it's been 3 years that i am running Arch on my system . I love to contribute to the linux comunity . 
@@ -21,3 +21,4 @@ ofcourse i prefer linux over Windows and it's been 3 years that i am running Arc
   <a href="mailto:umang20singh@gmail.com?subject=Olá%20Umang"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/ssingh_umang"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+<hr>
