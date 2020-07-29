@@ -32,9 +32,9 @@ ofcourse i prefer linux over Windows and it's been 3 years that i am running Arc
   <img src="https://img.shields.io/badge/figma%20-%231572B6.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
    <img  src="https://img.shields.io/badge/mongoDB%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=green" /> &nbsp;&nbsp;
  <br><br>
-![](https://github-readme-stats.vercel.app/api?username=Bhard27&show_icons=true)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhard27.Bhard27)
 </p>
+![](https://github-readme-stats.vercel.app/api?username=InsideU&show_icons=true)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=InsideU.InsideU)
 
